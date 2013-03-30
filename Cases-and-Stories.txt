@@ -1,0 +1,415 @@
+\begin{center}
+
+\textsc{\huge Cases and Stories}\\[1.25cm]
+
+\includegraphics{cover.png}\\[2cm]
+
+% Author and supervisor
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft} \large
+\emph{Authors:}\\
+Dushasana Mahanta\
+Kunj Bihari Pratap\
+Akhileshwar Singh\
+\end{flushleft}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+\begin{flushright} \large
+\emph{Editor:} \\
+Ananda Mahto\\
+\emph{Illustrator:}\\
+Seema Shastri
+\end{flushright}
+\end{minipage}
+
+\vfill
+\textsc{\Large Tata-Dhan Academy, Madurai}\\[0.5cm]
+
+\end{center}
+
+\pagenumbering{gobble}
+\pagestyle{plain}
+\cleardoublepage
+
+\textsc{\huge Cases and Stories}
+\vfill
+\textsc{\Large Tata-Dhan Academy, Madurai}
+
+
+\newpage
+
+This collection \copyright\ 2012 by Tata-Dhan Academy.\
+All content and illustrations copyright by their respective authors.
+
+\vfill
+
+\begin{center}
+
+\begin{minipage}{0.55\textwidth}
+\begin{flushleft} \large
+\textsc{\normalsize Tata-Dhan Academy}\\
+\textup{\scriptsize T. Malaipatti, Thenkarai BO}\\
+\textup{\scriptsize Mullipallam SO, Sholavandan (Via)}\\
+\textup{\scriptsize Vadipatti Taluk}\\
+\textup{\scriptsize Madurai District 625 207}\\
+\textup{\scriptsize Ph: 04543 293405, 293406}\\
+\textup{\scriptsize E-mail: tatadhanacademy@dhan.org}\\
+\textup{\scriptsize Website: www.dhan.org/tda}
+\end{flushleft}
+\end{minipage}
+\begin{minipage}{0.35\textwidth}
+\begin{flushright} \large
+\textsc{\normalsize DHAN Foundation}\\
+\textup{\scriptsize 18, Pillaiyar Koil Street}\\
+\textup{\scriptsize S.S. Colony}\\
+\textup{\scriptsize Madurai 625 010}\\
+\textup{\scriptsize Web: http://www.dhan.org}
+\textup{\scriptsize }\\
+\textup{\scriptsize }\\
+\textup{\scriptsize }\\
+\textup{\scriptsize }
+\end{flushright}
+\end{minipage}
+
+\end{center}
+
+\newpage
+
+\tableofcontents
+\cleardoublepage
+
+\setcounter{page}{1}
+\pagenumbering{arabic}
+
+# Introduction
+
+The case method of teaching and learning has become a very common feature in schools of higher education throughout the world---and for good reason. Case demonstrations and analysis can engage the thought process of learners in ways that traditional teaching methods cannot.
+
+Cases are popular for several reasons:
+
+* A well-written case is the ideal *foundation for integrated learning*: a single case can be used for multiple courses, allowing learners to understand how to look at realistic situations from multiple dimensions to increase their understanding or to improve the decisions they take.
+* Many cases are centered around "dilemmas" or "problems". Resolving the dilemmas and problems, through discussions in and out of the classroom, is an *active learning process*. As such, the lessons learned through this method are more likely to be recalled than something read in a textbook or heard in a lecture.
+* A non-fictitious or real-world case can serve as evidence of the efficacy of a particular tool or approach. Typically, these cases come in the form of *success stories*, *vignettes*, or *character or institution profiles*.
+* Cases are useful in demonstrating real-world problems either through recounting *real-world information and data* (often made anonymous to protect the privacy of the subject) or by presenting *realistic details*. This makes cases as a tool very flexible: if a real-world case is not available or does not fully meet a lesson's requirement, a creative teacher can write their own case or integrate hypothetical scenarios into existing cases---perhaps even an alternative ending---to better achieve their objectives.
+* A series of related cases can be used to *illustrate nuanced differences in possible approaches* that are often only otherwise available through years of experience. For instance, a series of cases might be used to show how a problem was successfully solved in different locations, but with different degrees of success.
+* Cases *engage the reader's emotions*; as such, they also help learners understand---either directly or indirectly---some of the psychology behind the choices that we make, even if those choices are not the best ones from a theoretical perspective.
+
+At the Tata-Dhan Academy, there is a two-part series of writing classes in the *Communication for Development* discipline called "Academic and Professional Writing" which takes place in the first two terms. Broadly summarizing, the first term introduces students to the typical writing forms that might be expected of them as products of academia, while the second term introduces them to the broader range of writing formats they might be required to use as professionals in development organizations.
+
+During the second half of "Academic and Professional Writing", students are introduced to the "human interest" story, and with each batch, we always have a very interesting discussion on the topic "What is the difference between a report, a story, and a case?" [*inspired by* @RPC-WT]. For a few students, the discussion continues, but in a more practical sense, if they opt for the "Specialized Writing" elective course offered later in the course. Here, we often start by observing the general purposes of these three types of writing, and usually end up with something along the lines of:
+
+* Reports serve to deliver *information* to the reader. They may be detailed or concise, depending on the needs of the targeted reader. They use a range of different presentation formats to help build the reader's knowledge about a given topic. A well-written report provides the reader with a suitable overview of the topic.
+* Stories try to recreate an *experience* for the reader---usually by building an emotional connection between the reader and one of the characters in the story---and may sometimes include messages that can inspire the reader or help influence their world-view. The messages, however, are often up to interpretation, and while all readers might all learn *something* from stories, *what* one individual reader learns might be different from another. A well-written story "transports" the reader into the story itself.
+* Cases are designed to *teach* something specific to the reader and ultimately promote *wisdom* (as opposed to knowledge). Many cases combine aspects of reporting and storytelling. For instance, whereas in reporting, the emotional voice of the writer is subdued, in storytelling, it might be overt; a case might try to strike a balance between these two extremes to help make the reader aware that emotions do influence our decisions, sometimes even more than information. Nevertheless, since a case is designed as a teaching tool, a certain amount of objectivity and systematic presentation of facts is required (neither of which is required when telling stories).
+
+Following our discussions, the students in "Specialized Writing" try to write some stories and cases of their own. Although I prefer encouraging students to write "real" cases whenever possible, as an experiment for one assignment in this class, the students have to write a fictional case---and an accompanying story---based on a writing prompt that I provide. In doing so, they discover something interesting: there's a little bit of a paradox between the amount of details you can provide when fabricating a believable case---the so called "conjunction fallacy" [*see* @Stories-Stats]. Briefly put, when the "conjunction fallacy" comes into play, we might be telling a good story, but the  *probability* that all the events or details in our story actually occurring reduces as we add each new event or detail. In other words, if our details about a "character" in our case are (A) they have brown hair, (B) they are an alcoholic, and (C) they have two sons, the probability of "A" alone being true is higher than "A and B" being true, which is in turn, higher than "A and B and C" being true.
+
+This is an important lesson for case writing, because cases are ultimately tools for learning meant to be *applied*. Even when we are writing a real-life case, we may be tempted to include many details. But whenever we do so, we should pause and review our work for a few reasons:
+
+* Are we including this level of detail to demonstrate that the situation is *unique* or an anomaly? If so, then the details might be useful to the reader.
+* Are we including these details because they are *common*? If so, we should try to first identify the lowest level of detail that would be common across a range of cases and build from there if necessary. The idea here is that too many details might actually lower the "applicable learning potential" of the case. If, in the end, the learners decide that "\emph{Given A, \textbf{and} given B, \textbf{and} given..., the course of action we recommend is...}", that might actually limit the learner's ability to apply related solutions to similar (but not identical) situations. To reiterate, too many details or events happening concurrently reduce the likelihood of that scenario being repeated elsewhere.
+* Are all the details *relevant* to the concept being taught or demonstrated? Sometimes, authors are tempted to add as much information as possible with the argument being that "it makes the writing more interesting, because you get a full picture", or "it makes analyzing the case more interesting because in real life, you have to filter out what is relevant before you can begin your analysis", or even "this is intentionally there to confuse the reader." Pedagogically, as a case author, you should ask yourself if that truly promotes learning, and if you decide it does, you should be able to specify what type of learning will occur.
+
+This third consideration brings us to another important point about case writing: all case writers should develop one or more "teaching notes" that highlight how they anticipate the case being used in a classroom. Again, as cases sometimes venture into the realm of storytelling, and people "connect" with stories in varied ways, a systematic teaching note can help reduce any ambiguity that may be present for the case facilitator, thus making the case a more useful learning tool.
+
+With these opening remarks, I invite you to read a short selection of cases and stories written by Dushasana Mahanta, Kunj Bihari Pratap, and Akhileshwar Singh, participants in the "Specialized Writing" elective course offered to the tenth batch of students in Tata-Dhan Academy's *Programme in Development Management* (PDM). I would like to thank the students for their contributions. I would also like to thank Seema Shastri, from the twelfth PDM batch, for her illustrations found throughout this document.
+
+\vspace{1in}
+
+***Ananda Mahto***\
+**Faculty, Communication for Development Discipline**\
+Tata-Dhan Academy, Madurai\
+anandamahto@dhan.org
+
+\cleardoublepage
+
+# The Assignment
+
+Based on the following background information, write (using as many or as few details as you see fit). *The time allotted for this assignment is three hours.*
+
+1. A story, preferably one that includes dialogue.
+2. A case and a case teaching note with points for discussion.
+
+> *Ramesh, aged 43, is an agricultural laborer who was injured in the field four years ago. Since then, he has started drinking and gambling. Most of the family's savings has been spent on his addiction. Meenakshi, aged 38, is Ramesh's wife. They have been married for 18 years. Originally, she was a housewife. Now, she has been working as a daily wage earner, doing agricultural work. They have three children, two girls, aged 18 and 15, and a 14-year old boy; after their third child, they went for family planning. Their son is studying in school. Their daughters were taken out of school when Ramesh was injured. Now the mother is thinking of taking her son out of school. The family lives in a drought-prone area with poor irrigation facilities. Agricultural work is irregular. The family regularly borrows from moneylenders for their daily needs. Meenakshi has just heard about the self-help group concept. What happens next?*
+
+\cleardoublepage
+
+# Dushasana Mahanta
+
+## An Alternative
+
+Ramesh and his wife Meenakshi came to my clinic 10 years ago for family planning. I remember clearly that Ramesh was drunk up to his neck. Their elder daughter was 8 years old at the time, and their second daughter was 4 years old. Balbu, the only son, was just a couple of years old.
+
+Meenakshi's marriage had always been rough, but since that time, things had gotten worse. The elder daughter, who was yet to be married, had left school and had allegedly fallen in love with a married but childless village priest who was about 50 years old. Meenakshi's second daughter, who was 14, had also left school. The family was suffering through a financial crisis due to an injury Ramesh suffered while gambling, leaving the young son to play the role of the head of household. The whole family was almost in a state of ruin.
+
+Last Sunday, I visited Meenakshi to ask her about the status of the family planning operation that I had done 10 years before. I had to go for this because it is helpful for my research work for improving my practice. As I approached the door, I stopped outside and listened to the argument that was loudly taking place inside.
+
+"You... you came to my home with a daughter in your stomach," Ramesh was shouting. "I... I would not have drunk, would not have gambled so much if it were not for the pressure from society. People even tell me that your oldest daughter is not my daughter."
+
+"Do whatever you want!" replied Meenakshi. "Go. Go and gamble. Take my share too. All I have is my family anyway."
+
+I could hear the sound of Ramesh stumbling towards Meenakshi as he said, "I will beat you. You are characterless. Your daughter is also characterless. Oh my god. She will probably commit adultery and marry the old village priest. I will commit suicide!"
+
+At this point, I heard Balbu intervene and prevent his father from abusing Meenakshi. After some minutes, it sounded like the situation had calmed down, so I knocked on the door. Meenakshi opened the door, invited me in, and offered me an old plastic mat to sit on the ground with.
+
+"Ah, doctor!" said Ramesh. "You have come to our home after a very long time."
+
+"Yes," I replied. "I'm just here to check and see how your wife is."
+
+"You see her. She is here. Anyway, it is the turn of my daughter," Ramesh continued.
+
+"You fool," Meenakshi intervened. "Don't you know what to say in front of whom?"
+
+"Ok," Ramesh said. "I am going outside. I will come back by evening."
+
+"Where will you go? To your gambling place. Go. Go quickly otherwise you will be late. Go!" said Meenakshi, disappointment and sarcasm in her voice.
+
+Ramesh left to meet with his gambling partners, and I started my discussion with Meenakshi. My intention was to do a follow-up interview that I do with women who have undergone family planning operations, but Meenakshi seemed intent on telling me her family's story.
+
+She started from her marriage.
+
+"I was just 20 when I got married, and now I am 38, 5 years younger to my husband. Our elder daughter is 18, and the younger one is 14. Both of them have dropped out of school. Right now, Balbu is still in school, but I am afraid that I shall have to force him to drop out of school too, because I am not able to support the family otherwise. My husband is addicted to alcohol and gambling, and he unnecessarily questions my character and blames me for the situation our family is in. The moneylenders are always at our door demanding repayment, but I do not have any way to repay the loan. The only work I am able to get is as an agricultural labourer, but the wages and number of days of work I can get are very low. What can I do? Please help me?"
+
+![Meenakshi sits with the doctor](meenakshi-doctor.png)\
+
+I could understand the depth of the situation she was in. Fortunately, in our location, there was help available.
+
+"You can consider becoming a member of a self-help group---an SHG---in your locality," I suggested, referring her to a non-government organization named PRADAN which has been working in this area for more than two decades.
+
+Meenakshi was  curious to learn more about the SHG concept, particularly because she desperately needed an alternative to safeguard her family. I immediately took out my mobile and called one of my contacts at PRADAN who was able to speak to Meenakshi and explain to her how she can eventually become more financially secure, how the SHG can help address her husband's addiction problems, and how the education and welfare of her children could be taken care of.
+
+Meenakshi disconnected from the call with a shining face full of hope. In the space of a few short minutes, her mind had been transformed, and she was able to have a vision of her happy and prosperous family in the near future.
+
+"Now," she said, smiling and handing my mobile back to me, "I think you came to ask me a few questions about my health, right? Let's begin."
+
+\newpage
+
+## Meenakshi: A Real Leader
+
+Meenakshi is an SHG member of PRADAN's "Maa Jarini" SHG in Chemana village of Keonjhar district. She has been in "Maa Jarini" group for the past four years. When she joined this group upon the advice of a doctor, her husband was an alcoholic and a compulsive gambler. Two of her children had dropped out of school. Her family was managing with little food as she was the only earning member in the family. Her earnings were solely dependent upon the availability of agricultural labour work in the locality which, unfortunately, had an abundant labour force and very limited seasonal work.
+
+#### December 27, 2006 to December 27, 2007
+
+Meenakshi joined in "Maa Jarini" group and started with an initial saving of Rs.\ 20 per month. The "Maa Jarini" group had been there for the last seven years. It had good experience with different income generating activities like papad making, plywood furniture making, mat weaving, and fish rearing. According to group norms, Meenakshi had to pay a sum of Rs.\ 1,680, equal to the primary savings of each of the other 13 members of the group; however, she was not able to pay. She approached her doctor, who had recommended this group to her, and asked him to loan her the amount; fortunately, he provided it to her as an interest-free loan and asked her to repay during the second year of her membership in the group.
+
+#### December 28, 2008 to December 27, 2009
+
+In the "Mahalakshmi Plywood" furniture industry owned by the group, there was an annual turnover of Rs.\ 400,000. It is a semi-mechanized industry that tries to utilize the inexpensive and abundant labor force in the location. As a group member, Meenakshi works in the furniture industry at a wage of Rs.\ 50 per day for 8 hours of work. Sometimes she works more than 8 hours a day; for this, she can work for up to another four hours at Rs.\ 7 per hour. By the end of the year, she was able to repay the doctor's loan.
+
+The main expenditures for this year for Meenakshi's family was under the following categories: hospitalizing her husband Ramesh for a head injury resulting from a fight in a gambling place;  repayments to the doctor on his loan; and daily food consumption requirements for the family.
+
+#### December 28, 2009 to December 27, 2010
+
+This was the most successful year for Meenakshi. Recently, she had sent her husband to an alcohol de-addiction camp in Karnataka with a nominal payment of Rs.\ 1,000 for a week; the travel costs were borne by PRADAN. She purchased a cow with a loan of Rs.\ 15,000 from the group from which she can earn Rs.\ 10,000 every year. Her little son Bablu was admitted in a government school, D\ N\ High School.
+
+The most important achievement for her family for this year was the marriage of Kamakchi, her elder daughter with a school teacher. Her daughter was earlier accused of having illicit relations with a village priest, but these accusations have now stopped. All the 13 members of the group had contributed a sum of Rs.\ 500 each along with three days of shramdan to repair Meenakshi's home and get it ready for marriage. According to the group's president, Lakshmi, "We are capable because we are together."
+
+Now Meenakshi has been unanimously chosen to represent her group in the next annual function of PRADAN.
+
+### Teaching Notes
+
+This can be used for students and professionals in the sociology discipline or any other discipline related to socio-economic changes of a family keeping women at the centre. This case is most suitable for helping practitioners get some insights about social capital, women's entrepreneurship, leadership, and microfinance.
+
+#### Points for Discussion
+
+* Describe the short-term impact and potential long-term impact of the "Maa Jarini" SHG on Meenakshi's family.
+* How has Meenakshi's social capital status changed over the period of December 2006 to December 2010?
+* What are the strengths of Meenakshi to uplift her family?
+* What are the different dimensions in which the "Maa Jarini" SHG has brought changes to Meenakshi's family?
+* What inputs or mechanisms are necessary to make an SHG successful in addition to microfinance?
+
+\cleardoublepage
+
+# Kunj Bihari Pratap
+
+## Prosperity Comes Knocking
+
+One day, Meenakshi's friend introduced her to a self-help group. Initially, Meenakshi thought it would be an easy window to draw credit from the banks and she would not be required to repay. She immediately joined a self-help group when SELF Foundation promoted one in her village. On sustained insistence of SELF, the women from her village started attending group meetings every month. Meenakshi hesitated to talk to other women about her personal problems such as the lack of income to send her children to good schools, occasional beatings of her husband, and seasonal food insecurity.
+
+![Occasional beatings from husband](beatings-from-husband.png)\ \
+
+Gradually, she learned that she was not the only woman in her village who had such problems. In order to share her issues, she started actively participating in the group meetings. The group members also saved a sum of Rs.\ 50 per month.
+
+After three months of Meenakshi joining the group, her son passed class 8 exams with brilliant scores. He wanted to study further and attend the high school in the nearby town of Bolangir. Meenakshi understood the importance of education because she knew the difficulties she faces everyday as an illiterate. She wanted to support her son in his study but her husband denied them permission. He declared that as they have a negative cash flow and rising debt, the need of the family was income and not education. His son Suresh, should thus find a job in the village or in Bolangir. This would make their family be able to marry the elder daughter who was coming of age.
+
+At this point, Meenakshi resented her husband's authority and approached her group members for credit. Within one month, the group was able to get a loan of Rs.\ 6,000. Meenakshi received Rs.\ 2,000 as credit from the group at 12 percent interest rate. She discussed the prospects of her son again, and this time, her husband agreed when her son promised he would also take up part-time work along with his studies. His son got admission in the high school and found a job of taking tuitions of primary school children. He was able to send Rs.\ 100 from his income to his mother every month.
+
+Now, the group was six months old and the members decided that they will raise their monthly savings to Rs.\ 100. Meenakshi also agreed. The very next day, SELF organized an exposure visit to another group in a nearby block which was two years old. Some members expressed their discontent, complaining that the visit would cost them one day's wage. Finally, they agreed, as they came to know that their food would be taken care of for the day. Through this exposure visit, Meenakshi learned about how the other group has initiated small household-based livelihood activities like backyard poultry and mushroom cultivation which generates supplementary income.
+
+Her mind was busy preparing plans as the group returned to their village. Three months later, Meenakshi applied for a loan of Rs.\ 1,000 so that she could experiment with 20 birds in poultry and 10 units of mushroom beds. This time, her husband did not object as he had come to realize that his wife had developed good entrepreneurial skills and can take reliable decisions. The daughter supported the mother in these activities. They would count the birds every morning and evening and play with them. The birds and the mushrooms grew well and were easily sold in the village fair.
+
+By this time, Suresh had completed his class 9 exams and scored well. It was a time for celebration in the family when he returned home during his annual vacations. With the income from tuitions in the town, he bought new clothes for all his family members. Meenakshi repaid the loan amount of Rs.\ 2,000 from the income from the sale of birds, and the loan amount of Rs.\ 1,000 from the sale of mushrooms. Ramesh started to respect his wife for the changes she brought in the family. Suresh convinced the family to also send his sisters to schools. Now, Meenakshi understands the cycle of credit and no longer borrows from moneylenders. She regards the group's money as her own money and regularly saves as well as repays.
+
+With all the reasons of happiness, Meenakshi's family is able to repay all the loans from the moneylenders. The best thing for her is that she has the support of her husband and her children. There is prosperity knocking at the doors of her home.
+
+\newpage
+
+## From Poverty to Prosperity
+
+The poor were destined to remain poor, but no longer. Many of them are now able to break the shackles of poverty and march towards prosperity. This is exactly what happened with the family of Ramesh and Meenakshi, a family of five.
+
+"I did not know of self-help groups and I joined on the recommendation of my friend," says Meenakshi, describing her experience of one year with a group. "Now, I know that unknowingly I held the hands of a godfather."
+
+In the midst of common domestic issues of indebtedness, food insecurity, and domestic violence, she joined a group in her village promoted by SELF Foundation. Unaware of the systems and procedures, she did not initially participate in discussions. She was enlightened by an exposure visit to a nearby self-help group about the role a group can play in developing the financial status of a household.
+
+Very soon, she sought a loan of Rs.\ 1,000 to venture into poultry and mushroom business. She started making profits soon after. Earlier, she drew a loan to let her son continue his education. This also generated happy results for the family. Gradually, the family was able to recover from the loan of moneylenders.
+
+With the education of her son, and the income from multiple sources, she was able to steer her family out of food insecurity and reduce their indebtedness. Having proved her abilities, she also gathered respect and love from her husband. Ramesh no longer beats Meenakshi, and he does not object to the education of his daughters.
+
+Meenakshi has no idea how a sheer financial process transformed into a social activity. She rates the social benefits from the group higher than the financial gains. She believes that her family is now moving towards prosperity.
+
+### Teaching Notes
+
+#### Introduction
+
+This case is about the microfinance intervention of SELF Foundation in Jagatpur village of Bolangir district, Odisha. The case is focused on the family of Meenakshi and Ramesh, and their experiences with microfinance.
+
+#### Objectives
+
+The objectives of this case are to:
+
+1. Highlight the state of mind of the people who join a microfinance group and the changes over time.
+2. Explain the process of financial, livelihood, and social transformation in a family due to microfinance intervention.
+3. Initaite discussions about the scope of microfinance.
+
+#### Relevant facts
+
+* Suresh, the son of Meenakshi and Ramesh is brilliant in studies. He needed money to attend high school. Despite Ramesh's objection, Meenakshi took a loan of Rs.\ 2,000 at 12 percent interest from her group to finance his education at the end of four months of her association with the group.
+* Meenakshi initially saved Rs.\ 50 for the first six months. Later, she increased her savings to Rs.\ 100 as Suresh started earning from tuitions and was sending home Rs.\ 100 every month.
+* Meenakshi learned about backyard poultry and mushroom farming and started the activities with a loan of Rs.\ 1,000 from the group at the end of 9 months to purchase 20 birds and 10 units of mushroom beds.
+* By the end of one year, she had made enough profits to repay all her loans to the group and a substantial portion of her debts to moneylenders.
+
+#### Points for discussion
+
+The instructor should be able to drive the case towards the following points of discussion:
+
+* What are the reasons for which people join self-help groups?
+* What are the reasons of non-participation and de-motivation in the group proceedings?
+* What can be done to ensure participation and motivation of group members?
+* How do the elements of financial, livelihood, and social transformation correlate with each other?
+* What can be the scope of development with microfiance?
+
+\cleardoublepage
+
+# Akhileshwar Singh
+
+## The (Re)birth of Meenakshi
+
+![Mourning](mourning.png)\ \
+
+It was a sunny day.
+
+Too sunny.
+
+Due to the scorching heat, the death toll in Samliguda village had reached five. Just yesterday, one person died carrying paddy husk.
+
+The person who died was the neighbor of Meenakshi, a 38 year old lady who had studied only up to 10 standard when she got married with Ramesh. Together, they have two daughters and one son.
+
+While the family's situation was comfortable for a while, it has now become very poor due to Ramesh's habitual drinking. Meenakshi has tried everything she can think of to change his ways---scolding him, swearing on her son, instilling the fear of god in him---but nothing she has done seems to influence Ramesh's expensive habit.
+
+Meenakshi now feels helpless that she hasn't found a way to save money and serve her family. In such dire conditions, she decided to stop the studies of her daughters as she was not capable of paying the school fees. She has started working as a daily wage earner to earn what little she can to feed her family.
+
+"Meenakshi, today you did not go for work," Kamla's voice came, as Meenakshi was closing the door.
+
+"Did not you hear about Santhosh's death?" Meenakshi asked, joining her friend. "He was coming back from the field with paddy husk, but died on the way due to the scorching heat."
+
+"Hmm... very sad. Are you going to his death gathering?"
+
+"Yes. I am going there right now."
+
+"Wait. I'll come with you."
+
+Both of them reached Santosh's house, where the sound of crying was coming from every corner. Meenakshi went to share her sympathy with Santosh's wife, Sumathi, then she and Kamla went to sit in another room where the women were gathered, deep in conversation about the difficult situation Sumathi was now in.
+
+"I don't know what god wants this family to do," said one lady in the gathering. "Santosh was the sole earner of the family. How will Sumathi support the family alone?"
+
+"The kids are so small. The younger one is just two years old. It's going to be such a big burden to Sumathi," another lady added.
+
+The ladies in gathering turned towards Kamla and Sumathi as the saw them coming, and shuffled around to provide some space for both to sit.
+
+Then the conversation continued.
+
+"Have you heard about Rima of nearby village?"
+
+"What happened to her?" asked Kamla.
+
+"Nothing happened to her," the lady clarified, "but she also lost her husband. She got Rs.\ 10,000 immediately within a month, due to her loosing her husband."
+
+Everyone at the gathering turned towards the lady.
+
+"How?" asked Kamla.
+
+"She had joined something called an SHG. So they gave this amount to her."
+
+Everyone there looked at the lady with open eyes of disbelief as they listened to the different ways in which Rima's life improved after joining the SHG.
+
+After an hour, Kamla and Meenakshi left the gathering and walked back to their houses. Neither of them said much on the way; both of them were busy thinking about loss and opportunities.
+
+The next day, Meenakshi again decided to not go to work. Instead, she went to the neighboring village to meet Rima. She found her easily, and both of them talked a lot together as it was the first time they had met in a long time.
+
+Diverting the conversation, Meenakshi asked Rima, "How did you continue your life after your husband died?"
+
+Rima shared her story, describing how she came to know about self-help groups (what the lady at the gathering had called an SHG), and explaining the different forms of savings, credit, and insurance for poor families.
+
+Meenakshi listened to her carefully and finally asked her, "What if I want to join?"
+
+"Why not?" said Rima. "There is a new SHG forming soon which will be meeting on the fifth of next month. Why don't you come on that day and meet everyone?"
+
+Meenakshi nodded her head positively. She was very excited about joining SHG and waited as patiently as she could and collected whatever savings she had.
+
+On the fifth, she reached the meeting's venue half-an-hour before the start of the meeting. All the group members came before the scheduled time. They started with a prayer, and welcomed Meenakshi as a new group member. Meenakshi saved Rs.\ 100 that day in the group.
+
+An unknown happiness was spread across her face. She felt satisfied, and a vague vision of her future slowly started to form and become clearer. She was regular member of the group and her fellow members were happy with her behavior.
+
+In third month of joining the group, she requested a loan of Rs.\ 1,000 from the group savings. She promised to repay the loan after six months with the defined interest rate. She used the amount to purchase a goat.
+
+When she brought the goat home, Ramesh was suspicious.
+
+"Where did you find this goat?" he asked.
+
+Meenakshi did not share the truth as she was afraid to find out what Ramesh might do if he found out she were saving and was not letting him use all their money for drinking.
+
+"I have borrowed Kamla's goat to feed," she said, telling a little white lie. "She is paying me Rs.\ 150 per month to take care of it."
+
+Meenakshi successfully hid the truth from Ramesh, and she did not feel any bit of guilt about lying to her husband. She was extremely happy for what she did.
+
+Three months later, the goat gave birth to three lambs. After lambs were a little older, she was able to sell them and was able to repay her loan successfully.
+
+The next year, the SHG was linked with a bank. Meenakshi again requested a loan. This time, she wanted to revive her earlier skill of tailoring, so she purchased a sewing machine with the amount and started working hard. This time, when Ramesh asked her where she got the sewing machine, she did not lie, but answered him boldly. Ramesh was so surprised by the courage of Meenakshi and he cried inconsolably for the way he had behaved in the past.
+
+![Meenakshi imagining purchasing a sewing machine](meenakshi-sewing.png)\ \
+
+"Why are you crying like a child?" Meenakshi asked. "There is still a lot of hope. Don't blame yourself for everything in the past. Just think of it as a bad phase we went through. Now instead of fighting with each other, we can fight to make things better."
+
+Ramesh felt terrible as he looked at his wife and said, "I do not even have the words to say sorry to you. Despite all my wrongdoings, you are still giving me so much respect. From now, I promise I won't drink alcohol any more. I will work hard. I will make sure that our children go to the finest schools."
+
+From that day onwards, Meenakshi's intelligence, Ramesh's hard work, and the support of the SHG all created a multiplier effect on improving the wellbeing of Meenakshi's family.
+
+Three years later, Meenakshi was out shopping and preparing for her daughter's marriage. Another lady shopping at the same store came over to her.
+
+"Meenakshi? Is that you? I cannot believe my eyes that you are the same Meenakshi who worked in my paddy field!"
+
+Meenakshi smiled and replied, "That was also the same Meenakshi, and this is also the same Meenakshi. The only difference between the two is SHG that changed me from that Meenakshi to this one and now I am capable of marrying my daughter without any constraints!"
+
+\newpage
+
+## Case
+
+Ramesh, an agriculture worker, used to have 10 acres of land 10 years ago, but now he has only two acres. He had become heavily involved in drinking after his marriage, and had sold most of his productive land and all of his wife's jewelery in order to finance his habit.
+
+His wife is Meenakshi, and together, they have two daughters and one son. Meenakshi has no say in the house; in fact, Ramesh treats her as if she were a common laborer in his home. He has already pulled his two daughters out of school to have them work to pay for his habit, and he is even thinking about pulling his 14-year-old son out of school. Ramesh is in no condition to work these days, and this has forced Meenakshi to take up work as an agricultural laborer.
+
+Meenakshi recently heard about the self-help group (SHG) concept. She joined a group and started saving some of her money with the SHG. This helped her to purchase a goat after three months of joining the SHG. She was able to quickly repay her loan, giving her a good image among the SHG members.
+
+After one year, the SHG was linked with a bank, and Meenakshi got a loan of Rs.\ 3,600 to purchase a sewing machine. This way, she became independent. She did not pull her son out of school and she is now able to send her two daughters to school again. Through the SHG, she was able to come out of her severe poverty condition.
+
+### Teaching Notes
+
+Lead points for discussion:
+
+* What was the turning point in Meenakshi's life?
+* Compare Meenakshi's life before and after joining an SHG. What are some of the noteworthy changes?
+
+\cleardoublepage
+
+# References

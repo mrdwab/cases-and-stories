@@ -1,0 +1,30 @@
+\newpage
+\pagenumbering{gobble}
+\pagestyle{plain}
+\mbox{}
+\newpage
+\mbox{}
+\newpage
+
+\textsc{DHAN Foundation}
+
+\textsf{\footnotesize DHAN Foundation runs several innovative field programmes and activities to improve the lives of the poor. DHAN's programmes build on the concepts of self-help and collective action. DHAN employs high-quality human resources for creating access to microfinance services (including savings, credit, and insurance), rebuilding small-scale water reservoirs throughout the country, experimenting with making rainfed agriculture more remunerative, bringing information technology to the poor, and democratizing Panchayats through local action. DHAN collaborates with individuals and organisations including the Government and philanthropies.}
+
+\textsc{Tata-Dhan Academy}
+
+\textsf{\footnotesize Tata-Dhan Academy is promoted by DHAN Foundation, a pioneering grassroots organization, and Sir Ratan Tata Trust, Mumbai, to identify, nurture, and groom young graduates into development professionals through its flagship two-year Programme in Development Management. The Academy offers a number of short-duration Development Management Programmes and undertakes research, documentation, and consultancy services.}
+
+\textsc{CODE Discipline}
+
+\textsf{\footnotesize Effective communication is integral to the success of any programme. Development professionals need to be prepared with the skills to communicate proficiently with a diverse range of audiences including the community, government officials, academicians, and donors. These skills not only include the typically thought of written and oral communication skills, but also mass-communication skills ranging from effectively using today's modern communication technologies to harnessing the power of traditional or indigenous media. Tata-Dhan Academy, as a pioneer in development management education, has offered courses in its Communication for Development discipline---CODE---to try to address these needs.}
+
+\vfill
+
+\begin{center}
+\textsc{\normalsize Tata-Dhan Academy} \\
+\textsf{\scriptsize T. Malaipatti, Thenkarai BO | Mullipallam SO, Sholavandan (Via)} \\
+\textsf{\scriptsize Vadipatti Taluk | Madurai District 625 207} \\
+\textsf{\scriptsize Ph: 04543 293405, 293406} \\
+\textsf{\scriptsize E-mail: tatadhanacademy@dhan.org} \\
+\textsf{\scriptsize Website: www.dhan.org/tda}
+\end{center}
